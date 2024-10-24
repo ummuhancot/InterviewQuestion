@@ -9,6 +9,7 @@ Toplam, sayının kendisine eşit olduğu için 153 bir Armstrong sayısıdır.
 Genel formül:
 Bir n basamaklı bir sayı X, şu koşulu sağlıyorsa Armstrong sayısıdır:
 X=a¹n+a²n+⋯+a¹²
+407-> 4^3+0^3+7^3->343+64->407==407-> armstrong sayidir!!!
 Burada 𝑎1,𝑎2,…,𝑎𝑛 sayının basamaklarını temsil eder.
 Bazı Armstrong Sayıları:
 0, 1, 153, 370, 371, 407 (üç basamaklı)
